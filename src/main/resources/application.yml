@@ -3,9 +3,9 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.2.207:3306/hdvon_itsm_init?useUnicode=true&characterEncoding=utf-8
-    username: root
-    password: qwe123
+    url: jdbc:mysql://192.168.2.207:3306/xxx?useUnicode=true&characterEncoding=utf-8
+    username: xxx
+    password: xxx
     #\u4E0B\u9762\u4E3A\u8FDE\u63A5\u6C60\u8865\u5145\u8BBE\u7F6E
     initialSize: 5
     # \u914D\u7F6E\u83B7\u53D6\u8FDE\u63A5\u7B49\u5F85\u8D85\u65F6\u7684\u65F6\u95F4 \u00A0\u00A0
